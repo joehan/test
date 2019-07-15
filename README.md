@@ -30,7 +30,7 @@
 
 **Mod Resources**
 
-**Cloud Functions:**
+***Cloud Functions:***
 
 * **generateResizedImage:** (Listens for new images uploaded to your specified Cloud Storage bucket, resizes the images, then stores both images in the same Cloud Storage bucket.)
 
